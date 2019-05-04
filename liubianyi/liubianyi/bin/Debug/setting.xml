@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setinfo>
+	<setting>
+		<speed>
+			<min>>0</min>
+			<max>=&lt;1</max>
+		</speed>
+		<variation>
+			<P>0.020</P>
+			<N></N>
+		</variation>
+		<time>
+			<second>45</second>
+		</time>
+		<alternation>
+			<total></total>
+		</alternation>
+		<sampling>
+		20
+		</sampling>
+	</setting>
+	<setting>
+		<speed>
+			<min>>1</min>
+			<max>=&lt; 8</max>
+		</speed>
+		<variation>
+			<P>0.030</P>
+			<N>0.500</N>
+		</variation>
+		<time>
+			<second>30</second>
+		</time>
+		<alternation>
+			<total>6</total>
+		</alternation>
+		<sampling>
+		20
+		</sampling>
+	</setting>
+	<setting>
+		<speed>
+			<min>>8</min>
+			<max>=&lt; 300</max>
+		</speed>
+		<variation>
+			<P></P>
+			<N>1.000</N>
+		</variation>
+		<time>
+			<second>15</second>
+		</time>
+		<alternation>
+			<total>6</total>
+		</alternation>
+		<sampling>
+		20
+		</sampling>
+	</setting>
+</setinfo>
